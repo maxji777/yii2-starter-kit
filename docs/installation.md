@@ -52,9 +52,9 @@ composer create-project --prefer-dist --stability=dev trntv/yii2-starter-kit
 
 	- Set application canonical urls
 	```
-	FRONTEND_URL    = http://yii2-starter-kit.dev
-	BACKEND_URL     = http://backend.yii2-starter-kit.dev
-	STORAGE_URL     = http://storage.yii2-starter-kit.dev
+	FRONTEND_URL    = //yii2-starter-kit.dev
+	BACKEND_URL     = //backend.yii2-starter-kit.dev
+	STORAGE_URL     = //storage.yii2-starter-kit.dev
 	```
 
 3. Run
@@ -100,9 +100,9 @@ Password: user
 Adjust settings in `.env` file
 
 ```
-FRONTEND_URL    = http://yii2-starter-kit.dev
-BACKEND_URL     = http://yii2-starter-kit.dev/backend
-STORAGE_URL     = http://yii2-starter-kit.dev/storage
+FRONTEND_URL    = //yii2-starter-kit.dev
+BACKEND_URL     = //yii2-starter-kit.dev/backend
+STORAGE_URL     = //yii2-starter-kit.dev/storage
 ```
 	
 
